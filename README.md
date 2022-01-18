@@ -56,7 +56,7 @@ Com isso você já deverá estar com o ambiente rodando e pronto para a utiliza�
 
 ## 🎏 Rotas
 
-- Client 
+- **Client** 
 <p>
   <img alt="POST" src="https://img.shields.io/badge/-POST-brightgreen">
   <img alt="ROTA" src="https://img.shields.io/static/v1?label=baseURL&message=/client/&color=inactive&labelColor=8257e5">
@@ -95,8 +95,9 @@ Body: JSON
 Bearer: Token: Utilizar o token de autenticação.
 <br />
 <br />
+<br />
 
-- Deliveries (Entregas)
+- **Deliveries (Entregas)**
 <p>
   <img alt="POST" src="https://img.shields.io/badge/-POST-brightgreen">
   <img alt="ROTA" src="https://img.shields.io/static/v1?label=baseURL&message=/delivery&color=inactive&labelColor=8257e5">
@@ -120,8 +121,9 @@ Bearer: Token: Utilizar o token de autenticação do client.
 Bearer: Token: Utilizar o token de autenticação do deliveryman.
 <br />
 <br />
+<br />
 
-- Deliveryman (Entregador)
+- **Deliveryman (Entregador)**
 <p>
   <img alt="POST" src="https://img.shields.io/badge/-POST-brightgreen">
   <img alt="ROTA" src="https://img.shields.io/static/v1?label=baseURL&message=/deliveryman&color=inactive&labelColor=8257e5">
